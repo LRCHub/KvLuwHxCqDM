@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Transpose",
+  "base_artist": "とた",
+  "createdAt": "2026-02-16T07:55:08.915581Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Transpose",
+      "artist": "Bad Suns",
+      "has_synced": true,
+      "path": "select/01_Transpose_Bad_Suns.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Transpose",
+      "artist": "Bad Suns",
+      "has_synced": true,
+      "path": "select/02_Transpose_Bad_Suns.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Transpose",
+      "artist": "Bad Suns",
+      "has_synced": true,
+      "path": "select/03_Transpose_Bad_Suns.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Transpose (Embody Remix)",
+      "artist": "Bad Suns",
+      "has_synced": false,
+      "path": "select/04_Transpose_(Embody_Remix)_Bad_Suns.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Transpose (Nicita Remix)",
+      "artist": "Bad Suns",
+      "has_synced": true,
+      "path": "select/05_Transpose_(Nicita_Remix)_Bad_Suns.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Transpose",
+      "artist": "tota",
+      "has_synced": false,
+      "path": "select/06_Transpose_tota.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Transpose",
+      "artist": "とた",
+      "has_synced": false,
+      "path": "select/pl_01_Transpose_とた.txt"
+    }
+  ]
+}
